@@ -1,6 +1,6 @@
 # Pig latin
 ## usage -
-	`cargo run	`
+	`cargo run`
 ## how it works
  input  `this is input`
  output `histay ishay inputhay`
